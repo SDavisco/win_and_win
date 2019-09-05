@@ -11,10 +11,10 @@
 <body>
 <div id="nav">
 		<ul>
-            <li><a href="cotizaciones.php">Venta de Propiedades</a></li>
-            <li><a href="incidencias.php">Venda su Propiedad</a></li>
-            <li><a href="clientes.php">Inversion Inmoviliaria</a></li>
-            <li><a href="getdatos2.php">Diseño de Interiores</a></li>
+            <li><a href="propiedades_venta.php">Venta de Propiedades</a></li>
+            <li><a href="venda_prop.php">Venda su Propiedad</a></li>
+            <li><a href="inversion_inmobiliaria.php">Inversion Inmoviliaria</a></li>
+            <li><a href="diseño_interior.php">Diseño de Interiores</a></li>
 		</ul>
 </div>
 </body>
