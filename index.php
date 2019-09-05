@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
     </head>
     <body>
-        <?php include 'header.php';?>    
+        <?php include 'layout/header.php';?>    
         <section>
             <div id="section">
             <p>Casas de playa o de campo, terrenos agricolas o indistriales, departamentos,
