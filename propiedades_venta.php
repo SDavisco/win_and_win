@@ -15,11 +15,11 @@
             negociación con el propietario y el tramite legal para garantizar una compra
             100% segura y eficiente.
             <ul>
-            <li>Departamentos</li>
-            <li>Casa de Playa</li>
-            <li>Casa de Campo</li>
-            <li>Terrenos</li>
-            <li>Locales Comerciales</li>
+                <li>Departamentos</li>
+                <li>Casa de Playa</li>
+                <li>Casa de Campo</li>
+                <li>Terrenos</li>
+                <li>Locales Comerciales</li>
             </ul>
         </div>
     </body>
