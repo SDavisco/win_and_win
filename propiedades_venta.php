@@ -2,8 +2,7 @@
 <html>
     <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link rel="stylesheet" type="text/css" media="all" href="css/main.css">
     </head>
     <body>
         <?php include 'layout/header.php';?>
@@ -22,5 +21,57 @@
                 <li>Locales Comerciales</li>
             </ul>
         </div>
+      <ul>
+        <li>
+          <div class="contenedor-img ejemplo-5">  
+              <img src="imagenes/images.png" />  
+              <div class="mascara">
+                  <h2>Ejemplo 5</h2>  
+                  <a href="#" class="link">Leer mas</a>  
+              </div>
+            </div>
+         </li>
+         <li>
+            <div class="contenedor-img ejemplo-5">  
+                <img src="imagenes/images.png" />  
+                <div class="mascara">
+                    <h2>Ejemplo 5</h2>  
+                    <a href="#" class="link">Leer mas</a>  
+            </div>
+         </li>
+         <li>
+            <div class="contenedor-img ejemplo-5">  
+                <img src="imagenes/images.png" />  
+                <div class="mascara">
+                    <h2>Ejemplo 5</h2>  
+                    <a href="#" class="link">Leer mas</a>  
+                </div>
+         </li>
+         <li>
+            <div class="contenedor-img ejemplo-5">  
+                <img src="imagenes/images.png" />  
+                <div class="mascara">
+                    <h2>Ejemplo 5</h2>  
+                    <a href="#" class="link">Leer mas</a>  
+                </div>
+         </li>
+         <li>
+            <div class="contenedor-img ejemplo-5">  
+                <img src="imagenes/images.png" />  
+                <div class="mascara">
+                    <h2>Ejemplo 5</h2>  
+                    <a href="#" class="link">Leer mas</a>  
+                </div>
+         </li>
+         <li>
+            <div class="contenedor-img ejemplo-5">  
+                <img src="imagenes/images.png" />  
+                <div class="mascara">
+                    <h2>Ejemplo 5</h2>  
+                    <a href="#" class="link">Leer mas</a>  
+                </div>
+         </li>                                   
+
+      </ul>
     </body>
 </html>
