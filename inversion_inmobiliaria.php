@@ -6,6 +6,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
     </head>
     <body>
+			<?php include 'layout/header.php';?>   
         <div class="Informacion">
 
         </div>

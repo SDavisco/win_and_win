@@ -21,57 +21,65 @@
                 <li>Locales Comerciales</li>
             </ul>
         </div>
-      <ul>
-        <li>
-          <div class="contenedor-img ejemplo-5">  
-              <img src="imagenes/images.png" />  
-              <div class="mascara">
-                  <h2>Ejemplo 5</h2>  
-                  <a href="#" class="link">Leer mas</a>  
-              </div>
-            </div>
-         </li>
-         <li>
-            <div class="contenedor-img ejemplo-5">  
-                <img src="imagenes/images.png" />  
-                <div class="mascara">
-                    <h2>Ejemplo 5</h2>  
-                    <a href="#" class="link">Leer mas</a>  
-            </div>
-         </li>
-         <li>
-            <div class="contenedor-img ejemplo-5">  
-                <img src="imagenes/images.png" />  
-                <div class="mascara">
-                    <h2>Ejemplo 5</h2>  
-                    <a href="#" class="link">Leer mas</a>  
-                </div>
-         </li>
-         <li>
-            <div class="contenedor-img ejemplo-5">  
-                <img src="imagenes/images.png" />  
-                <div class="mascara">
-                    <h2>Ejemplo 5</h2>  
-                    <a href="#" class="link">Leer mas</a>  
-                </div>
-         </li>
-         <li>
-            <div class="contenedor-img ejemplo-5">  
-                <img src="imagenes/images.png" />  
-                <div class="mascara">
-                    <h2>Ejemplo 5</h2>  
-                    <a href="#" class="link">Leer mas</a>  
-                </div>
-         </li>
-         <li>
-            <div class="contenedor-img ejemplo-5">  
-                <img src="imagenes/images.png" />  
-                <div class="mascara">
-                    <h2>Ejemplo 5</h2>  
-                    <a href="#" class="link">Leer mas</a>  
-                </div>
-         </li>                                   
-
-      </ul>
+             <table class="egt">
+                <tr>                      
+                    <td>
+                       <div class="contenedor-img ejemplo-5">  
+                       <img src="imagenes/images.png" />  
+                       <div class="mascara">
+                       <h2>Departamentos</h2>  
+                       <a href="#" class="link">Leer mas</a>  
+                       </div>
+                       </div>          
+                    </td>
+                    <td>
+                       <div class="contenedor-img ejemplo-5">  
+                       <img src="imagenes/images.png" />  
+                       <div class="mascara">
+                       <h2>Departamentos</h2>  
+                       <a href="#" class="link">Leer mas</a>  
+                       </div>
+                       </div>          
+                    </td>  
+                    <td>
+                       <div class="contenedor-img ejemplo-5">  
+                       <img src="imagenes/images.png" />  
+                       <div class="mascara">
+                       <h2>Departamentos</h2>  
+                       <a href="#" class="link">Leer mas</a>  
+                       </div>
+                       </div>          
+                    </td>                                                                                                                       
+                </tr>   
+                <tr>                      
+                    <td>
+                       <div class="contenedor-img ejemplo-5">  
+                       <img src="imagenes/images.png" />  
+                       <div class="mascara">
+                       <h2>Departamentos</h2>  
+                       <a href="#" class="link">Leer mas</a>  
+                       </div>
+                       </div>          
+                    </td>
+                    <td>
+                       <div class="contenedor-img ejemplo-5">  
+                       <img src="imagenes/images.png" />  
+                       <div class="mascara">
+                       <h2>Departamentos</h2>  
+                       <a href="#" class="link">Leer mas</a>  
+                       </div>
+                       </div>          
+                    </td>  
+                    <td>
+                       <div class="contenedor-img ejemplo-5">  
+                       <img src="imagenes/images.png" />  
+                       <div class="mascara">
+                       <h2>Departamentos</h2>  
+                       <a href="#" class="link">Leer mas</a>  
+                       </div>
+                       </div>          
+                    </td>                                                                                                                       
+                </tr>                                                         
+            </table>
     </body>
 </html>
