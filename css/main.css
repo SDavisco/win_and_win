@@ -2,6 +2,7 @@
 body{
     margin:0;
     padding: 0;
+    border: 0;
 }
 h1,h2,h3,h4,h5,h6,p,a{
     font-family: "proxima-nova-soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
@@ -30,9 +31,6 @@ padding: 0 7%;
     font-weight: 700;
     text-decoration: none;
 }
-#nav ul{
-    width: 100%;
-}
 
 .contenedor-img {
     width: 300px;
@@ -43,6 +41,7 @@ padding: 0 7%;
     text-align: center;
     cursor: default;
     background: #fff;
+    margin: 50px;
     }
     .contenedor-img .mascara,.contenedor-img .contenido {
     width: 300px;
@@ -132,3 +131,15 @@ padding: 0 7%;
     transform: scale(1);
     opacity: 1;
     }
+
+#inicio{
+    width: 100%;
+    display: block;
+}
+
+.presentacion{
+    padding:0 300px;
+}
+.t_propiedad{
+    margin: 0 auto;
+}
