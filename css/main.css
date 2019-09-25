@@ -4,10 +4,18 @@ body{
     padding: 0;
     border: 0;
 }
-h1,h2,h3,h4,h5,h6,p,a{
+h1,h2,h3,h4,h5,h6,p,a,label{
     font-family: "proxima-nova-soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
 }
 
+input, textarea{
+    width: 270px;
+    height: 30px;
+}
+
+section{
+    font-size: 25px;
+}
 #nav{
     width: 100%;
 }
@@ -33,15 +41,14 @@ padding: 0 7%;
 }
 
 .contenedor-img {
-    width: 300px;
-    height: 200px;
+    width: 400px;
+    height: 300px;
     float: left;
     overflow: hidden;
     position: relative;
     text-align: center;
     cursor: default;
     background: #fff;
-    margin: 50px;
     }
     .contenedor-img .mascara,.contenedor-img .contenido {
     width: 300px;
@@ -142,4 +149,38 @@ padding: 0 7%;
 }
 .t_propiedad{
     margin: 0 auto;
+}
+
+#venta{
+    display:inline-block;
+    position: relative;
+    margin:25px auto;
+    width: 100%;
+}
+
+#prueba-c{
+    position: relative;
+    width: 1500px;
+    margin: 25px auto;
+}
+
+#venta form{
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 5px solid rgb(253, 173, 0);
+    font-size: 30px;
+}
+
+#info{
+    position: relative;
+    width: 1200px;
+    margin: 25px auto;
+}
+
+.campo{
+    display: inline-block;
+    padding: 10px 150px;
 }
