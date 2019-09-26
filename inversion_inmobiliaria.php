@@ -7,14 +7,11 @@
     </head>
     <body>
 			<?php include 'layout/header.php';?>   
-        <div class="Informacion">
-
-        </div>
-        <div class="info">
-
-		</div>
 		<section id="venta">
-        <form action="enviar.php" method="post">
+			<div id="info">
+				<p>Sacale el maximo provecho a tu inmueble a traves de nuestras alianzas estrategicas.</p>
+			</div>
+       		 <form action="enviar.php" method="post">
 				<div class="campo">
 					<label>Nombre y Apellido</label><br>
 				<input type="text" name="nombre" placeholder="Nombre" class="caja-1" required>
