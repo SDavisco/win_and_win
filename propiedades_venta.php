@@ -27,7 +27,7 @@
                 <tr>                      
                     <td>
                        <div class="contenedor-img ejemplo-5">  
-                       <img src="imagenes/images.png" />  
+                       <img src="imagenes/item1.jpg" />  
                        <div class="mascara">
                        <h2>Departamentos</h2>  
                        <a href="#" class="link">Ver más</a>  
@@ -36,18 +36,18 @@
                     </td>
                     <td>
                        <div class="contenedor-img ejemplo-5">  
-                       <img src="imagenes/images.png" />  
+                       <img src="imagenes/item2.jpg" />  
                        <div class="mascara">
-                       <h2>Departamentos</h2>  
+                       <h2>C. de Campo</h2>  
                        <a href="#" class="link">Ver más</a>  
                        </div>
                        </div>          
                     </td>  
                     <td>
                        <div class="contenedor-img ejemplo-5">  
-                       <img src="imagenes/images.png" />  
+                       <img src="imagenes/item3.jpg" />  
                        <div class="mascara">
-                       <h2>Departamentos</h2>  
+                       <h2>C. de Playa</h2>  
                        <a href="#" class="link">Ver más</a>  
                        </div>
                        </div>          
@@ -56,27 +56,27 @@
                 <tr>                      
                     <td>
                        <div class="contenedor-img ejemplo-5">  
-                       <img src="imagenes/images.png" />  
+                       <img src="imagenes/item4.jpg" />  
                        <div class="mascara">
-                       <h2>Departamentos</h2>  
+                       <h2>Terrenos</h2>  
                        <a href="#" class="link">Ver más</a>  
                        </div>
                        </div>          
                     </td>
                     <td>
                        <div class="contenedor-img ejemplo-5">  
-                       <img src="imagenes/images.png" />  
+                       <img src="imagenes/item5.jpg" />  
                        <div class="mascara">
-                       <h2>Departamentos</h2>  
+                       <h2>L. Comerciales</h2>  
                        <a href="#" class="link">Ver más</a>  
                        </div>
                        </div>          
                     </td>  
                     <td>
                        <div class="contenedor-img ejemplo-5">  
-                       <img src="imagenes/images.png" />  
+                       <img src="imagenes/item6.jpg" />  
                        <div class="mascara">
-                       <h2>Departamentos</h2>  
+                       <h2>L. Industriales</h2>  
                        <a href="#" class="link">Ver más</a>  
                        </div>
                        </div>          

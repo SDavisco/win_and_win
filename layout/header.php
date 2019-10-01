@@ -16,7 +16,7 @@
 		<ul>
             <li><a href="propiedades_venta.php">Venta de Propiedades</a></li>
             <li><a href="venda_prop.php">Venda su Propiedad</a></li>
-            <li><a href="inversion_inmobiliaria.php">Inversion Inmoviliaria</a></li>
+            <li><a href="inversion_inmobiliaria.php">Inversion Inmobiliaria</a></li>
             <li><a href="diseño_interior.php">Diseño de Interiores</a></li>
 		</ul>
 </div>

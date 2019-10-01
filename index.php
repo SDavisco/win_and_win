@@ -14,22 +14,23 @@
                 </div>
                 <p>Casas de playa o de campo, terrenos agricolas o indistriales, departamentos,
                 locales comercial y mas propiedades.</p>
-                <button>más información...</button>
+                <button class="button">más información...</button>
             </div>
             <div class="section info2">
                 <div class="titulos">
                     Venda su Propiedad
                 </div>
                 <p>Sacale el maximo provecho a tu inmueble a traves de nuestras alianzas estrategicas.</p>
-                <button>más información...</button>
+                <button class="button">más información...</button>
             </div>
             <div class="section info3">
                     <div class="titulos">
                             Inversion Inmobiliaria
                     </div>
                 <p>Su dinero en el banco pierde valor con el tiempo. Invierta en bienes raices y obtenga rentas fijas. </p>
-                <button>más información...</button>
+                <button class="button">más información...</button>
             </div>
+            
         </section>
     </body>
 </html>

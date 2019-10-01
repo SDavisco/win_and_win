@@ -11,6 +11,7 @@
 			<div id="info">
 				<p>Sacale el maximo provecho a tu inmueble a traves de nuestras alianzas estrategicas.</p>
 			</div>
+			<div id="registro" class="formulario">
        		 <form action="enviar.php" method="post">
 				<div class="campo">
 					<label>Nombre y Apellido</label><br>
@@ -30,8 +31,9 @@
 					</textarea>
 				</div>
 				<div class="campo">
-				<button type="submit" class="b_correo">Enviar</button>
-			    </div>
+				<button type="submit" class="b_correo button">Enviar</button>
+				</div>
+				</div>
 		</form>
 		</section>
     </body>
