@@ -5,7 +5,7 @@ body{
     border: 0;
 }
 h1,h2,h3,h4,h5,h6,p,a,label{
-    font-family: "proxima-nova-soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+    font-family: 'Roboto', sans-serif
 }
 
 input, textarea{
